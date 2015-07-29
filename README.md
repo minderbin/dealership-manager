@@ -6,8 +6,10 @@ This was written a long time ago (~2008) when a throwaway project was needed for
 makefile is the make file used when compiling source (with masm32/RadASM)
 
 ####Default User accounts: 
--admin:   name:"admin"   passwd:"admin"
--manager: name:"manager" passwd:"manager"
+````
+- admin:   name:"admin"   passwd:"admin"
+- manager: name:"manager" passwd:"manager"
+````
 
 as2.exe will create default database files when first run.
 
